@@ -10,4 +10,6 @@ Implementation of the Bilateral Segmentation Network (BiSeNet) in pytorch as des
 * numpy
 * PIL
 
-# 90% developed. Untested.
+## Note: This model uses resnet18 as the network backbone
+
+# 95% development complete. Untested.
